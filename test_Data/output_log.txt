@@ -1,0 +1,63 @@
+Initialize engine version: 4.5.0f6 (fd4616464986)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Mobility Radeon HD 5000 Series (ID=0x68c1)
+    Vendor:   ATI
+    VRAM:     1015 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Panayiotis\Documents\Flappy Fish\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Panayiotis\Documents\Flappy Fish\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Panayiotis\Documents\Flappy Fish\test_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Panayiotis\Documents\Flappy Fish\test_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.151 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+Platform assembly: C:\Users\Panayiotis\Documents\Flappy Fish\test_Data\Managed\Boo.Lang.dll (this message is harmless)
+I collided with something tagged as: Ghost
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+I collided with something tagged as: ExtraLife
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+I collided with something tagged as: ExtraLife
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+I collided with something tagged as: Ghost
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+I collided with something tagged as: ObstacleDown
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+I collided with something tagged as: Nitro
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+I collided with something tagged as: Ghost
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+I collided with something tagged as: ObstacleUp
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+I collided with something tagged as: Ghost
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+I collided with something tagged as: Nitro
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 1.509641 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 220.
+Total: 2.061025 ms (FindLiveObjects: 0.043234 ms CreateObjectMapping: 0.034350 ms MarkObjects: 0.586326 ms  DeleteObjects: 0.008291 ms)
+
